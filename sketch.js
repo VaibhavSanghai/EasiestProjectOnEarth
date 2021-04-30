@@ -135,3 +135,43 @@ function waterPress() {
 function fertilizerPress() {
 
 }
+
+/* 
+
+Questions: 
+1. What is cutting down trees called? 
+2. What is the percent of oxygen in the air? 
+3. Even ___% of carbon dioxide can harm our environment. 
+4. Trees take in ________ and give out ________ ________. 
+5. A tree can give out enough oxygen, in its entire life, that can help __ people survive lifetime.  
+6. Which is the plant that can live for hundreds of years?
+7. Which is the only tree that gives out oxygen 24/7?
+8. Does sitting under a tree's shadow block the UV rays from the sun?
+9. What happens when there are floods in regions with a lot of trees? 
+10. Trees can help reduce _______. 
+
+Answers: 
+1. Deforestation
+2. 21%
+3. 1
+4. oxygen, carbon dioxide
+5. 10
+6. Banyan Tree
+7. Peepal Tree
+8. Yes
+9. Soil does not erode
+10. Stress
+
+OPTIONS: 
+1. a) Deforestation b) Afforestation c) 
+2. a)  b)  c)
+3. a)  b)  c)
+4. a)  b)  c)
+5. a)  b)  c)
+6. a)  b)  c)
+7. a)  b)  c)
+8. a)  b)  c)
+9. a)  b)  c)
+10. a)  b)  c)
+
+*/
